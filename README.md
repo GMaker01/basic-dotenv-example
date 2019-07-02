@@ -9,7 +9,6 @@ Run ng serve for a dev server. Navigate to http://localhost:4200/. The app will 
 
 # Project Dependencies
 Run `npm install` or `yarn` to install all the dependency
-`git clone https://github.com/GMaker01/basic-dotenv-example.git`
 
 # Start Project
 Run `node app.js` to start the project
