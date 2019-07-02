@@ -1,0 +1,23 @@
+{
+  "name": "basic-dotenv-example",
+  "version": "1.0.0",
+  "description": "https://stackoverflow.com/questions/56851687/why-is-process-env-undefined-in-module/56852276#56852276",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GMaker01/basic-dotenv-example.git"
+  },
+  "author": "Shubham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GMaker01/basic-dotenv-example/issues"
+  },
+  "homepage": "https://github.com/GMaker01/basic-dotenv-example#readme",
+  "dependencies": {
+    "dotenv": "^8.0.0",
+    "http": "0.0.0"
+  }
+}
